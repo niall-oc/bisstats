@@ -1,3 +1,3 @@
-from trading212.http_request import Client
+from bisstats.http_request import Client
 
 __all__ = (Client)
